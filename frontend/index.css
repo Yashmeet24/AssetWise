@@ -6,9 +6,10 @@ body{
 }
 
 .loginimage{
-    width: 425px !important;
-    height: 350px;
+    width: 400px !important;
+    height: 400px;
     align-items: center;
+    border-radius: 20px;
 }
 
 /*------------ Login container ------------*/
